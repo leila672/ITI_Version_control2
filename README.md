@@ -1,29 +1,27 @@
-# ITI_Version_control2
-# Foobar
+# GITHUB
 
-Foobar is a Python library for dealing with word pluralization.
-
+it is version control to can work with team and edit project easily
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Run the following command to install Git:
 
 ```bash
-pip install foobar
+sudo apt install git
 ```
 
 ## Usage
 
 ```python
-import foobar
 
-# returns 'words'
-foobar.pluralize('word')
 
-# returns 'geese'
-foobar.pluralize('goose')
+# to push 
+git push origin main
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+# to pull
+git pull origin main
+
+# to move to branch
+git checkout branch_name
 ```
 
 ## Contributing
@@ -31,5 +29,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## link help you to learn githup
+[MIT](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=1&ab_channel=ElzeroWebSchool)
+
+![Test Image 1](C:\Users\mohamed\Desktop\Open Source Application\pp.jpg)
