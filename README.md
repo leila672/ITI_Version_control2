@@ -30,6 +30,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## link help you to learn githup
-[MIT](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=1&ab_channel=ElzeroWebSchool)
+[github_tutorial](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=1&ab_channel=ElzeroWebSchool)
 
-![Test Image 1](C:\Users\mohamed\Desktop\Open Source Application\pp.jpg)
+![pp](C:\Users\mohamed\Desktop\Open Source Application\pp.jpg)
